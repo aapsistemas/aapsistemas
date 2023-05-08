@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, bem-vindo(a) 👋
+ Um repositorio feito para compartilhar exercicios de ✨ lógica ✨  utilizando python.
 
-<!--
-**aapsistemas/aapsistemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pontos abordado:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📚 Funçoes
+- 🔥 Controle de decisões
+- 🔁 Controle de repetição
+- 📦 Declaração de variaveis
+- 💬 Sintaxe
+- 📫 Comandos de E/S
+- ➕ Operadores
 -->
