@@ -1,7 +1,7 @@
 ### Olá, bem-vindo(a) 👋
  Um repositorio feito para compartilhar exercicios de ✨ lógica ✨  utilizando python.
 
-Pontos abordado:
+Pontos abordados:
 
 - 📚 Funçoes
 - 🔥 Controle de decisões
